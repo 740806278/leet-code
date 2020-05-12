@@ -22,6 +22,8 @@ public class YangHuiNew {
 
         if(numRows <= 0){
             return res;
+
+
         }
 
         for(int i = 0;i<numRows;i++){
